@@ -5,7 +5,7 @@
 	
 	<link href="/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-11-18T12:55:21Z</updated>
+	<updated>2024-11-18T20:56:48Z</updated>
 	<id>https://vizugram.cz/</id>
 	<author>
 		<name>Tomáš Marek</name>
@@ -24,13 +24,13 @@
 	</entry>
 	
 	<entry>
-		<title>Datové komixy z Vis4Schools</title>
+		<title>Datové komiksy z Vis4Schools</title>
 		<link href="/posts/data-comix/"/>
 		<updated>2024-11-01T00:00:00Z</updated>
 		<id>/posts/data-comix/</id>
-		<content type="html">&lt;h5&gt;Komix jako cesta k vizualizační gramotnosti&lt;/h5&gt;
-&lt;p&gt;Jeden z výstupů projektu Vis4Schools je The Comic Construction Kit. Všechny dostupné materiály (včetně metodik) jsou ke stažení zdarma na webu &lt;a href=&quot;https://fhstp.github.io/comixplain/vis4schools.html&quot;&gt;https://fhstp.github.io/comixplain/vis4schools.html&lt;/a&gt;.&lt;/p&gt;
+		<content type="html">&lt;h4&gt;Komix jako cesta k vizualizační gramotnosti&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;https://fhstp.github.io/comixplain/assets/Vis4Schools/comicKit.jpg&quot; alt=&quot;Logo CCK&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Jeden z výstupů projektu Vis4Schools je &lt;em&gt;The Comic Construction Kit&lt;/em&gt;. Jde o rozšíření projektu &lt;a href=&quot;https://fhstp.github.io/comixplain/&quot;&gt;Comixplain&lt;/a&gt;, jehož cílem je podporovat vznik alternativních didaktických materiálů založených na vyprávění příběhů prostřednictvím komiksů. Všechny dostupné materiály (včetně metodik k využití komiksu pro rozvoj vizualizační gramotnosti) jsou ke stažení zdarma na webu &lt;a href=&quot;https://fhstp.github.io/comixplain/vis4schools.html&quot;&gt;https://fhstp.github.io/comixplain/vis4schools.html&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	

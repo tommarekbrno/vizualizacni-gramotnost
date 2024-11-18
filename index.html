@@ -8,18 +8,20 @@
 
   <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="/static/css/main.css" media="all">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
 
 </head>
 <body>
   
 <nav class="navbar">
   <div class="navbar__inner">
-    <a class="navbar__logo" href="/">Vizualizační gramotnost</a>
+    <a class="navbar__logo" href="/"><!--Vizualizační gramotnost--><img src='/static/img/vizugramtr.png' class="imglogo"></a>
 
     <div class="navbar__mobile-options">
-      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
-        <img src="/static/img/moon.svg" alt="">
-      </div>
+     <!--<div class="navbar__button dark-toggle" aria-label="toggle dark theme"><img src="/static/img/moon.svg" alt=""></div>-->
       <button class="navbar__button navbar__hamburger" aria-expanded="false" aria-label="toggle menu">
         <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#333333">
           <path d="M0 0h24v24H0z" fill="none"/>
@@ -40,9 +42,7 @@
           Témata
         </a>
 
-      <div class="navbar__button dark-toggle" aria-label="toggle dark theme">
-        <img src="/static/img/moon.svg" alt="">
-      </div>
+     <!--<div class="navbar__button dark-toggle" aria-label="toggle dark theme"><img src="/static/img/moon.svg" alt=""></div>-->
 
     </div>
   </div>
@@ -65,24 +65,25 @@
   
 <div class="container">
   <div class="hero">
-  <img class="zmackane" src="https://publish-01.obsidian.md/access/5a4a1b895c7d35a22bccd906bf867e00/Soubory/dataviz.png">
-    <h1>
-      
+  <! --<img class="zmackane" src="https://publish-01.obsidian.md/access/5a4a1b895c7d35a22bccd906bf867e00/Soubory/dataviz.png">
+    <h1 class="azeret-mono-font">
+     <!--
         
-        🗃️ Vizualizační gramotnost
-      
+        Rozvíjíme vizualizační gramotnost
+      -->
+	  Rozvíjíme <mark>vizualizační</mark> gramotnost od školky.
     </h1>
 	
     <p class="hero__description">
       
-        Kartotéka článků, tipů a nápadů pro rozvoj vizualizační gramotnosti u dětí, od školky až po střední školu.
+        Kartotéka článků, metod a nástrojů pro rozvoj vizualizační gramotnosti u dětí, od školky až po střední školu.
       
     </p>
   </div>
 
-  <h2 class="section-title">
+  <!--<h2 class="section-title">
     Nejnovější příspěvky
-  </h2>
+  </h2>-->
   <div class="card-grid">
   
     <div class="card">
@@ -113,7 +114,7 @@
   
     <div class="card">
       <h3 class="card__title">
-        <a href="/posts/data-comix/">Datové komixy z Vis4Schools</a>
+        <a href="/posts/data-comix/">Datové komiksy z Vis4Schools</a>
       </h3>
       <br>
       <p class="card__description">Kreativní kit z rakouských univerzit, který žákům umožňuje pochopit různé formy vizualizace dat prostřednictvím vytváření komiksů.</p>
@@ -242,14 +243,14 @@
   <div class="pagination">
       
       
-        <a href="/page-2/" class="pagination__next">Další stránka &rarr;</a>
+        <a href="/page-2/" class="pagination__next">Další kartičky &rarr;</a>
       
   </div>
 </div>
 
   
   <footer class="footer">
-  &copy; 2024 - Vizualizační gramotnost
+  &copy; 2024 |&nbsp;<a href="https://www.marektomas.cz/" target="_blank">Tomáš Marek</a><!--Vizualizační gramotnost-->
 </footer>
 
   <script>
