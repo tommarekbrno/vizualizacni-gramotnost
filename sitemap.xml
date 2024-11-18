@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://vizugram.cz/temata/predskolni-vzdelavani/</loc>
+    <loc>https://vizugram.cz/temata/nastroje/</loc>
     <lastmod>2024-10-10</lastmod>
   </url>
   
@@ -47,12 +47,17 @@
   </url>
   
   <url>
+    <loc>https://vizugram.cz/temata/stredni-skola/</loc>
+    <lastmod>2024-10-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vizugram.cz/temata/eseje/</loc>
     <lastmod>2024-10-10</lastmod>
   </url>
   
   <url>
-    <loc>https://vizugram.cz/temata/stredni-skola/</loc>
+    <loc>https://vizugram.cz/temata/predskolni-vzdelavani/</loc>
     <lastmod>2024-10-10</lastmod>
   </url>
   
@@ -64,5 +69,15 @@
   <url>
     <loc>https://vizugram.cz/temata/</loc>
     <lastmod>2024-10-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vizugram.cz/posts/data-comix/</loc>
+    <lastmod>2024-11-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vizugram.cz/posts/nyt-grafy/</loc>
+    <lastmod>2024-11-01</lastmod>
   </url>
 </urlset>
