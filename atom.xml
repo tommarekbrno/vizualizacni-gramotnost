@@ -5,7 +5,7 @@
 	
 	<link href="/atom.xml" rel="self"/>
 	<link href=""/>
-	<updated>2024-11-18T20:56:48Z</updated>
+	<updated>2024-11-19T10:48:31Z</updated>
 	<id>https://vizugram.cz/</id>
 	<author>
 		<name>Tomáš Marek</name>
@@ -13,24 +13,27 @@
 	</author>
 	
 	<entry>
-		<title>Co se děje v tomhle grafu?</title>
-		<link href="/posts/nyt-grafy/"/>
+		<title>Datové komiksy z Vis4Schools</title>
+		<link href="/posts/datove-komixy-z-vis4schools/"/>
 		<updated>2024-11-01T00:00:00Z</updated>
-		<id>/posts/nyt-grafy/</id>
-		<content type="html">&lt;h5&gt;Bezedná studnice kvalitních vizualizací&lt;/h5&gt;
-&lt;p&gt;Projekt NYT je dostupný na adrese  &lt;a href=&quot;https://www.nytimes.com/column/whats-going-on-in-this-graph&quot;&gt;https://www.nytimes.com/column/whats-going-on-in-this-graph&lt;/a&gt;. Obsahuje nejen samotné vizualizace (nové se objevují každých čtrnáct dní), ale také metodické materiály pro práci s nimi. Každá vizualizace obsahuje sadu otázek, nad kterými se mohou žáci zamýšlet. Vždy po dvou týdnech se pod grafem objeví podrobně sepsány i možné odpovědi a přístupy. Vizualizace nemizí, ale přesouvají se do archivu - je tedy možné je kdykoliv využít v hodině. Všechny materiály jsou v angličtině.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://static01.nyt.com/images/2023/06/08/learning/ClimateRiskMapLN2/ClimateRiskMapLN2-superJumbo-v2.png?quality=75&amp;amp;auto=webp&amp;amp;disable=upscale&quot; alt=&quot;Vizualizace klimatu od NYT&quot; /&gt;&lt;/p&gt;
+		<id>/posts/datove-komixy-z-vis4schools/</id>
+		<content type="html">&lt;h4&gt;Komix jako cesta k vizualizační gramotnosti&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://fhstp.github.io/comixplain/assets/Vis4Schools/comicKit.jpg&quot; alt=&quot;Logo CCK&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Jeden z výstupů projektu Vis4Schools je &lt;em&gt;The Comic Construction Kit&lt;/em&gt;. Jde o rozšíření projektu &lt;a href=&quot;https://fhstp.github.io/comixplain/&quot;&gt;Comixplain&lt;/a&gt;, jehož cílem je podporovat vznik alternativních didaktických materiálů založených na vyprávění příběhů prostřednictvím komiksů. Všechny dostupné materiály (včetně metodik k využití komiksu pro rozvoj vizualizační gramotnosti) jsou ke stažení zdarma na webu &lt;a href=&quot;https://fhstp.github.io/comixplain/vis4schools.html&quot;&gt;https://fhstp.github.io/comixplain/vis4schools.html&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Datové komiksy z Vis4Schools</title>
-		<link href="/posts/data-comix/"/>
+		<title>Co se děje v tomhle grafu?</title>
+		<link href="/posts/co-se-deje-v-tomhle-grafu/"/>
 		<updated>2024-11-01T00:00:00Z</updated>
-		<id>/posts/data-comix/</id>
-		<content type="html">&lt;h4&gt;Komix jako cesta k vizualizační gramotnosti&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;https://fhstp.github.io/comixplain/assets/Vis4Schools/comicKit.jpg&quot; alt=&quot;Logo CCK&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Jeden z výstupů projektu Vis4Schools je &lt;em&gt;The Comic Construction Kit&lt;/em&gt;. Jde o rozšíření projektu &lt;a href=&quot;https://fhstp.github.io/comixplain/&quot;&gt;Comixplain&lt;/a&gt;, jehož cílem je podporovat vznik alternativních didaktických materiálů založených na vyprávění příběhů prostřednictvím komiksů. Všechny dostupné materiály (včetně metodik k využití komiksu pro rozvoj vizualizační gramotnosti) jsou ke stažení zdarma na webu &lt;a href=&quot;https://fhstp.github.io/comixplain/vis4schools.html&quot;&gt;https://fhstp.github.io/comixplain/vis4schools.html&lt;/a&gt;.&lt;/p&gt;
+		<id>/posts/co-se-deje-v-tomhle-grafu/</id>
+		<content type="html">&lt;h4&gt;Bezedná studnice kvalitních vizualizací&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;https://static01.nyt.com/images/2024/05/02/learning/SummerTempsGraphLN2/SummerTempsGraphLN2-jumbo.png?quality=75&amp;amp;auto=webp&quot; alt=&quot;Vizualizace od NYT&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Projekt &lt;mark&gt;&lt;em&gt;What’s Going On in This Graph?&lt;/em&gt;&lt;/mark&gt; od zavedeného amerického
+deníku &lt;em&gt;The New York Times&lt;/em&gt; obsahuje nejen samotné vizualizace, ale také metodické materiály pro práci s nimi. Každá vizualizace obsahuje sadu otázek, nad kterými se mohou žáci zamýšlet. Nová vizualizace se objevuje každých 14 dní a vždy po dvou týdnech se pod grafem objeví podrobně sepsány i možné odpovědi a přístupy. Vizualizace nemizí, ale přesouvají se do archivu - je
+tedy možné je kdykoliv využít v hodině. Všechny materiály jsou v
+angličtině. Projekt je dostupný na adrese &lt;a href=&quot;https://www.nytimes.com/column/whats-going-on-in-this-graph&quot;&gt;https://www.nytimes.com/column/whats-going-on-in-this-graph&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
